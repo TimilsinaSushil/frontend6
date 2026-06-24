@@ -8,6 +8,10 @@ function App() {
   return (
     <>
      <Sidebar/>
+     <div className='h-[95vh]'>
+
+     </div>
+     <Footer/>
     </>
   )
 }
